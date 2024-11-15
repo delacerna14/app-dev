@@ -1,2 +1,3 @@
-# app-dev
-my first respository
+# My Favorite anime series is: DANDADAN
+**This anime consists of the supoernatural and the occult**
+
